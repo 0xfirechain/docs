@@ -1,0 +1,8 @@
+{
+  "label": "Developers",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Find all the dev info that you need in the Firechain developers documention section."
+  }
+}
